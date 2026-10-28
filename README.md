@@ -1,2 +1,2 @@
 # Pixel75
-para proyecto osi osi
+para proyecto de videojuego
